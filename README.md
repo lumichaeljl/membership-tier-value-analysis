@@ -73,3 +73,7 @@ python tier_analysis.py
 Put `WA_Fn-UseC_-Telco-Customer-Churn.csv` in the same folder first.
 
 Outputs: `tier_summary.csv`, `clean_customers.csv`, `tier_charts.png`, `summary.md`.
+
+## AI disclosure
+
+I used Claude to help plan this project, write the first draft, and draft the findings. I ran the script on the real dataset, checked the results, and edited the write-up. I can explain each step of the analysis.
