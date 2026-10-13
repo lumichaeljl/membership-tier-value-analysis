@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Junk
+__pycache__/
+*.pyc
+
+# Data and Outputs
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+clean_customers.csv

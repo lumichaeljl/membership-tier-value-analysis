@@ -1,0 +1,4 @@
+Contract,customers,pct_of_customers,avg_monthly_charge,avg_tenure_months,churn_rate_pct,avg_total_revenue,total_revenue,est_value_per_customer,pct_of_revenue
+Month-to-month,3875,55.1,66.4,18.0,42.7,1369.25,5305862.0,1195.2,33.0
+One year,1472,20.9,65.08,42.1,11.3,3034.68,4467054.0,2739.87,27.8
+Two year,1685,24.0,60.87,57.1,2.8,3728.93,6283254.0,3475.68,39.1
